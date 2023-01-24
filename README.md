@@ -1,8 +1,8 @@
 ***THESE DOTFILES ARE OUTDATED AND WERE ONLY AN IDEA WHICH NEVER WAS MENT TO BE USED FOR ANY ACTIVE USE***
 ---
 
-## Dotfiles for BSPWM by Paul
-# How to install:
+# Dotfiles for BSPWM by Paul
+## How to install:
 * Run the following command:
 ```
 ./install.sh
@@ -12,7 +12,7 @@
 
 ---
 
-# FAQ
+## FAQ
 1. Why is there no bar?  
 * This config of bswpm is only for cosmetics and not for casual use. You can add a bar by yourself.  
 
