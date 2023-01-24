@@ -3,6 +3,7 @@
 
 # Dotfiles for BSPWM by Paul
 ## How to install:
+* You need to have the following things installed before installing this config: `zsh`, `oh-my-zsh`, `bspwm`, `alacritty` (Terminal)
 * Run the following command:
 ```
 ./install.sh
