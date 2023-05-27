@@ -1,5 +1,6 @@
-# Pauls Dotfiles
-These are my ```old``` dotfiles which were never ment to be used in an active use. There for it has no use to be used for practical use. It's only for desing and was only an idea for other rices.
+# (Out of date) Pauls Dotfiles
+These are my ```old``` dotfiles which were never ment to be used in an active use. There for it has no use to be used for practical use. It's only for desing and was only an idea for other rices.  
+My new dotfiles are at [here!](https://github.com/plastic-bottleneck/bspwm-rice)
 
 ![BSPWM SCREENSCHOT](https://github.com/plastic-bottleneck/dotfiles/blob/main/image2.png)
 
